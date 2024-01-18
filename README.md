@@ -1,3 +1,5 @@
+#File Oraganizer
+
 "file_organizer.py" is a versatile Python script designed to simplify the often tedious task of file organization within a directory. Users are presented with the option to either utilize the default base path or specify a custom one, offering flexibility in various scenarios.
 
 The script excels in categorizing files based on their extensions, automatically creating distinct folders for each file type. For instance, imagine having a cluttered downloads folder with various files such as images, documents, and spreadsheets. By running "file_organizer.py," the script would intelligently sort these files into separate directories, enhancing overall file management.
